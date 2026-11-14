@@ -3,7 +3,7 @@
 > **Mã bài tập:** HW03 - Task 1 & Task 2  
 > **Sinh viên thực hiện:** Trần Vũ Quang – MSSV: **23120346**  
 > **Hệ thống kiểm thử (SUT):** EShop Web (`http://localhost:5173/`)  
-> **Repository GitHub Issues:** [https://github.com/tvquang0511/eshop-sut/issues](https://github.com/tvquang0511/eshop-sut/issues)
+> **Repository GitHub Issues:** [https://github.com/tvquang0511/hw03-gui-usability/issues](https://github.com/tvquang0511/hw03-gui-usability/issues)
 
 ---
 

@@ -1,6 +1,6 @@
 # MẪU BÁO CÁO 12 GITHUB ISSUES CHI TIẾT (COPY-PASTE VÀO GITHUB)
 
-> **Repository Issues:** [https://github.com/tvquang0511/eshop-sut/issues/new](https://github.com/tvquang0511/eshop-sut/issues/new)  
+> **Repository Issues:** [https://github.com/tvquang0511/hw03-gui-usability/issues/new](https://github.com/tvquang0511/hw03-gui-usability/issues/new)  
 > **Hướng dẫn:** Bạn vào link trên, bấm **New issue**, copy từng **Tiêu đề (Title)** và toàn bộ khung **Nội dung (Markdown Body)** dán vào rồi bấm **Submit new issue**.
 
 ---

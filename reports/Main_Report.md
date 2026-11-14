@@ -4,8 +4,9 @@
 > **Sinh viên thực hiện:** Trần Vũ Quang – MSSV: **23120346**  
 > **Lớp:** Kỹ thuật Phần mềm / CNTT – ĐH Khoa học Tự nhiên (HCMUS)  
 > **Email:** 23120346@student.hcmus.edu.vn  
-> **Repository GitHub (SUT & Issues):** [https://github.com/tvquang0511/eshop-sut](https://github.com/tvquang0511/eshop-sut)  
-> **Repository Bài làm (Tài liệu & Mã nguồn):** [https://github.com/tvquang0511/hw03-gui-usability](https://github.com/tvquang0511/hw03-gui-usability)  
+> **Repository GitHub (Tài liệu & Bug Issues):** [https://github.com/tvquang0511/hw03-gui-usability](https://github.com/tvquang0511/hw03-gui-usability)  
+> **Trang Bug Issues:** [https://github.com/tvquang0511/hw03-gui-usability/issues](https://github.com/tvquang0511/hw03-gui-usability/issues)  
+> **Repository SUT:** [https://github.com/tvquang0511/eshop-sut](https://github.com/tvquang0511/eshop-sut)  
 > **Hệ thống được kiểm thử (SUT):** EShop Application (`http://localhost:5173/`)
 
 ---
