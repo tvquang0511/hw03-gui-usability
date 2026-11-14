@@ -60,16 +60,15 @@
 ---
 
 ## GIAI ĐOẠN 5: BÁO CÁO KIỂM TOÁN AI & BÀI PHÊ BÌNH AI (MANDATORY)
-- [ ] **Task 5.1:** Tổng hợp toàn bộ nhật ký prompt và output vào bảng **AI Audit Report**.
-- [ ] **Task 5.2:** Viết bài **AI Critique (bắt buộc dài từ 200 đến 300 từ)** trả lời 3 câu hỏi của đề bài: AI sai ở đâu? Tại sao sót lỗi? Bài học rút ra khi cộng tác với AI?
+- [x] **Task 5.1:** Tổng hợp toàn bộ nhật ký prompt và output vào bảng **AI Audit Report**.
+- [x] **Task 5.2:** Viết bài **AI Critique (bắt buộc dài từ 200 đến 300 từ: đạt 268 từ)** trả lời 3 câu hỏi của đề bài: AI sai ở đâu? Tại sao sót lỗi? Bài học rút ra khi cộng tác với AI?
 
 ---
 
 ## GIAI ĐOẠN 6: HOÀN THIỆN HỒ SƠ, XUẤT FILE & ĐÓNG GÓI NỘP BÀI
-- [ ] **Task 6.1:** Hoàn thiện `reports/Main_Report.md` và chuyển đổi sang `reports/Main_Report.pdf`.
-- [ ] **Task 6.2:** Chuyển đổi `reports/AI_Audit_and_Critique.md` sang `.pdf`.
-- [ ] **Task 6.3:** Xuất lịch sử Git commit ra file text: `git log --stat > git_commit_log.txt`.
-- [ ] **Task 6.4:** Cập nhật bảng tự chấm điểm (100đ) và bảng Test Summary trong file `README.md`.
-- [ ] **Task 6.5:** Đẩy toàn bộ commit lên GitHub `tvquang0511/hw03-gui-usability`.
-- [ ] **Task 6.6:** Nén toàn bộ thư mục thành file:  
-  `23120346_HW03_AI_GUIUsability_100.zip` và nộp lên Moodle.
+- [x] **Task 6.1:** Hoàn thiện `reports/Main_Report.md` và chuyển đổi sang `reports/Main_Report.pdf`.
+- [x] **Task 6.2:** Chuyển đổi `reports/AI_Audit_and_Critique.md` sang `reports/AI_Audit_and_Critique.pdf`.
+- [x] **Task 6.3:** Xuất lịch sử Git commit ra file text: `git log --stat > git_commit_log.txt`.
+- [x] **Task 6.4:** Cập nhật bảng tự chấm điểm (100đ) và bảng Test Summary trong file `README.md`.
+- [x] **Task 6.5:** Đẩy toàn bộ commit lên GitHub `tvquang0511/hw03-gui-usability`.
+- [ ] **Task 6.6 (Việc cuối cùng của bạn):** Quay video demo Agent Skills (up YouTube lấy link dán vào README) và nén thành file zip nộp Moodle.
