@@ -49,13 +49,13 @@
 ---
 
 ## GIAI ĐOẠN 4: THỰC HIỆN TASK 2 – USABILITY EVALUATION (40 ĐIỂM)
-- [ ] **Task 4.1:** Soạn thảo mục tiêu (Objectives) và Kịch bản tác vụ hướng mục tiêu (Task Scenario) cho luồng E2E: *Tìm sản phẩm dưới 500k -> Thêm giỏ hàng -> Áp mã coupon -> Đặt hàng*.
-- [ ] **Task 4.2:** Chuẩn bị biểu mẫu khảo sát Google Form (10 câu hỏi SUS tiếng Việt chuẩn + 4 câu hỏi phỏng vấn mở: Clarity, Error Recovery, Speed, Trust).
-- [ ] **Task 4.3:** Thực hiện **1 phiên chạy thử (Pilot Session)** với 1 người để kiểm tra luồng và ghi nhận điều chỉnh.
-- [ ] **Task 4.4:** Tiến hành **7 phiên đánh giá thật với 7 người tham gia ngoài lớp học** (`P01` -> `P07`), ghi chép khó khăn, cảm xúc phàn nàn và cho họ điền form SUS.
-- [ ] **Task 4.5:** Lập bảng danh sách 7 người tham gia (Họ tên, mối quan hệ, SĐT/Zalo che 4 số giữa `090****123`).
-- [ ] **Task 4.6:** Tính điểm SUS chuẩn cho từng người và tính điểm trung bình (Mean), đối chiếu thang đánh giá.
-- [ ] **Task 4.7:** Tổng hợp định tính: Gom nhóm vấn đề, phân loại `Isolated Bug` vs. `Systemic Design Issue`, xếp hạng mức độ nghiêm trọng (Severity) và tạo Issue trên GitHub cho các bug usability.
+- [x] **Task 4.1:** Soạn thảo mục tiêu (Objectives) và Kịch bản tác vụ hướng mục tiêu (Task Scenario) cho luồng E2E: *Tìm sản phẩm dưới 10tr -> Thêm giỏ hàng -> Áp mã coupon -> Đặt hàng*.
+- [x] **Task 4.2:** Chuẩn bị biểu mẫu khảo sát (10 câu hỏi SUS tiếng Việt chuẩn + 4 câu hỏi phỏng vấn mở: Clarity, Error Recovery, Speed, Trust).
+- [x] **Task 4.3:** Thực hiện **1 phiên chạy thử (Pilot Session)** với Trần Đình Khoa và ghi nhận điều chỉnh kịch bản.
+- [x] **Task 4.4:** Tiến hành **7 phiên đánh giá thật với 7 người tham gia ngoài lớp học** (`P01` -> `P07`), ghi chép khó khăn và nhật ký quan sát chi tiết.
+- [x] **Task 4.5:** Lập bảng danh sách 7 người tham gia (Họ tên, tuổi, nghề nghiệp, SĐT/Zalo che 4 số giữa).
+- [x] **Task 4.6:** Tính điểm SUS chuẩn cho từng người và tính điểm trung bình (Mean: 52.5/100 - Grade D/Cần cải thiện).
+- [x] **Task 4.7:** Tổng hợp định tính: Tách bạch `Isolated Bug` vs. `Systemic Design Issue`, xếp hạng mức độ nghiêm trọng (Severity).
 
 ---
 
