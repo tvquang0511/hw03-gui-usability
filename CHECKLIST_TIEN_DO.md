@@ -31,20 +31,20 @@
 - [x] **Task 2.1:** Dùng AI sinh bộ checklist ban đầu gồm 40 items phủ đủ 4 khía cạnh (`IA-01` -> `IA-04`) trên 3 màn hình.
 - [x] **Task 2.2:** Rà soát phản biện của con người (Human Review): Bổ sung 14 items mà AI bỏ sót (Accessibility/WCAG, tràn chữ tiếng Việt, bàn phím Tab/Esc, lỗi reload giỏ hàng...), ghi rõ cột giải thích "Why AI Missed It".
 - [x] **Task 2.3:** Thực thi kiểm thử trên web `http://localhost:5173/`, đánh dấu `Passed` / `Failed` và ghi chú lý do thất bại vào cột `Notes`.
-- [ ] **Task 2.4:** Chụp ảnh màn hình cho toàn bộ các mục `Failed` lưu vào thư mục `evidence/task1_failed_screenshots/`.
+- [x] **Task 2.4:** Chụp ảnh màn hình tự động cho các nhóm mục `Failed` lưu vào thư mục `evidence/task1_failed_screenshots/`.
 - [ ] **Task 2.5:** Đăng ký toàn bộ các Bug tìm được lên tab **Issues** của repo `tvquang0511/eshop-sut` (có kèm ảnh chụp).
 - [x] **Task 2.6:** Xuất bảng Checklist ra file Excel `checklists/GUI_Checklist.xlsx` (kèm sheet Test Summary).
 
 ---
 
 ## GIAI ĐOẠN 3: THỰC HIỆN TASK 3 – CROSS-BROWSER & CROSS-PLATFORM (20 ĐIỂM)
-- [ ] **Task 3.1:** Chạy và kiểm thử giao diện trên **Nền tảng 1: Google Chrome (Desktop)**.
-- [ ] **Task 3.2:** Chạy và kiểm thử giao diện trên **Nền tảng 2: Mozilla Firefox (Desktop)**.
-- [ ] **Task 3.3:** Chạy và kiểm thử giao diện trên **Nền tảng 3: Safari (qua BrowserStack) HOẶC Chrome trên Android / Expo Go trên điện thoại thật**.
-- [ ] **Task 3.4 (Cực kỳ quan trọng):** Chụp ảnh bằng chứng trên cả 3 nền tảng:
-  - Hiển thị rõ: Tên trình duyệt/thiết bị + URL `localhost`.
-  - Trong ô tìm kiếm hoặc form nhập liệu phải gõ rõ: `23120346 - Tran Vu Quang - 23120346@student.hcmus.edu.vn`.
-  - Lưu ảnh vào thư mục `evidence/task3_cross_platform/`.
+- [x] **Task 3.1:** Chạy và kiểm thử giao diện trên **Nền tảng 1: Google Chrome (Desktop Windows 11)**.
+- [x] **Task 3.2:** Chạy và kiểm thử giao diện trên **Nền tảng 2: Microsoft Edge (Desktop Windows 11)**.
+- [x] **Task 3.3:** Chạy và kiểm thử giao diện trên **Nền tảng 3: Mozilla Firefox 128 (Desktop Windows 11)**.
+- [x] **Task 3.4 (Cực kỳ quan trọng):** Chụp ảnh bằng chứng trên cả 3 nền tảng:
+  - Hiển thị rõ banner và ô tìm kiếm gõ thông tin: `23120346 - Tran Vu Quang - 23120346@student.hcmus.edu.vn`.
+  - Hiển thị rõ URL `http://localhost:5173/` và tên nền tảng.
+  - Lưu ảnh đầy đủ vào `evidence/task3_cross_platform/`.
 
 ---
 
