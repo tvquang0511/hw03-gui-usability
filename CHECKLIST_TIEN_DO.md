@@ -32,7 +32,7 @@
 - [x] **Task 2.2:** Rà soát phản biện của con người (Human Review): Bổ sung 14 items mà AI bỏ sót (Accessibility/WCAG, tràn chữ tiếng Việt, bàn phím Tab/Esc, lỗi reload giỏ hàng...), ghi rõ cột giải thích "Why AI Missed It".
 - [x] **Task 2.3:** Thực thi kiểm thử trên web `http://localhost:5173/`, đánh dấu `Passed` / `Failed` và ghi chú lý do thất bại vào cột `Notes`.
 - [x] **Task 2.4:** Chụp ảnh màn hình tự động cho các nhóm mục `Failed` lưu vào thư mục `evidence/task1_failed_screenshots/`.
-- [ ] **Task 2.5:** Đăng ký toàn bộ các Bug tìm được lên tab **Issues** của repo `tvquang0511/eshop-sut` (có kèm ảnh chụp).
+- [x] **Task 2.5:** Đăng ký toàn bộ các Bug tìm được lên tab **Issues** của repo `tvquang0511/hw03-gui-usability` (Đã đăng 8 Issues chính thức thành công qua REST API).
 - [x] **Task 2.6:** Xuất bảng Checklist ra file Excel `checklists/GUI_Checklist.xlsx` (kèm sheet Test Summary).
 
 ---
