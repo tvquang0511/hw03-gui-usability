@@ -28,15 +28,12 @@
 ---
 
 ## GIAI ĐOẠN 2: THỰC HIỆN TASK 1 – GUI CHECKLIST (30 ĐIỂM)
-- [ ] **Task 2.1:** Dùng AI sinh bộ checklist ban đầu gồm 40 items phủ đủ 4 khía cạnh (`IA-01` -> `IA-04`) trên 3 màn hình:
-  - Màn hình 1: Danh sách & Chi tiết sản phẩm (`FR-05`, `FR-06`).
-  - Màn hình 2: Giỏ hàng (`FR-07`).
-  - Màn hình 3: Thanh toán & Mã giảm giá (`FR-08`, `FR-09`).
-- [ ] **Task 2.2:** Rà soát phản biện của con người (Human Review): Bổ sung 12–15 items mà AI bỏ sót (Accessibility/WCAG, tràn chữ tiếng Việt, bàn phím Tab/Esc, lỗi reload giỏ hàng...), ghi rõ cột giải thích "Why AI Missed It".
-- [ ] **Task 2.3:** Thực thi kiểm thử trên web `http://localhost:5173/`, đánh dấu `Passed` / `Failed` và ghi chú lý do thất bại vào cột `Notes`.
+- [x] **Task 2.1:** Dùng AI sinh bộ checklist ban đầu gồm 40 items phủ đủ 4 khía cạnh (`IA-01` -> `IA-04`) trên 3 màn hình.
+- [x] **Task 2.2:** Rà soát phản biện của con người (Human Review): Bổ sung 14 items mà AI bỏ sót (Accessibility/WCAG, tràn chữ tiếng Việt, bàn phím Tab/Esc, lỗi reload giỏ hàng...), ghi rõ cột giải thích "Why AI Missed It".
+- [x] **Task 2.3:** Thực thi kiểm thử trên web `http://localhost:5173/`, đánh dấu `Passed` / `Failed` và ghi chú lý do thất bại vào cột `Notes`.
 - [ ] **Task 2.4:** Chụp ảnh màn hình cho toàn bộ các mục `Failed` lưu vào thư mục `evidence/task1_failed_screenshots/`.
 - [ ] **Task 2.5:** Đăng ký toàn bộ các Bug tìm được lên tab **Issues** của repo `tvquang0511/eshop-sut` (có kèm ảnh chụp).
-- [ ] **Task 2.6:** Xuất bảng Checklist ra file Excel `checklists/GUI_Checklist.xlsx` (kèm sheet Test Summary).
+- [x] **Task 2.6:** Xuất bảng Checklist ra file Excel `checklists/GUI_Checklist.xlsx` (kèm sheet Test Summary).
 
 ---
 
