@@ -36,8 +36,8 @@
 *(Sẽ được cập nhật liên tục khi hoàn thành từng giai đoạn kiểm thử)*
 
 - **Số lượng màn hình / Luồng kiểm thử:** 3 màn hình chính + 1 luồng E2E
-- **Số lượng Checklist Items thiết kế:** Đang cập nhật (> 40 items)
-- **Số lượng Passed / Failed:** Đang cập nhật
-- **Tổng số Bugs phát hiện và log trên GitHub Issues:** Đang cập nhật
-- **Số lượng người tham gia Usability Test:** 7 người thật + 1 người Pilot
+- **Số lượng Checklist Items thiết kế:** 54 items (AI sinh 40 + Con người bổ sung 14)
+- **Số lượng Passed / Failed:** 33 Passed (61.1%) / 21 Failed (38.9%)
+- **Tổng số Bugs phát hiện và log trên GitHub Issues:** 12 Bugs (8 Issues chính thức đã đăng trên [GitHub Issues](https://github.com/tvquang0511/hw03-gui-usability/issues))
+- **Số lượng người tham gia Usability Test:** 7 người thật ngoài lớp học (SUS Mean: 59.6/100) + 1 phiên Pilot (Google Form: https://forms.gle/wweJ9JR3AUeu3CV77)
 - **Link Video Demo Agent Skills:** https://youtu.be/VZzl_j5WnUc

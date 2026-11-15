@@ -1,8 +1,8 @@
-Participant_ID,Name,Role,Phone,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Calculated_SUS_Score,Grade
-P01,"Nguyễn Thị Mai Lan","Sinh viên Ngôn ngữ Anh",0918****342,3,3,3,2,3,4,3,3,3,2,52.5,"D (Kém / Cần cải thiện)"
-P02,"Lê Hoàng Phúc","Nhân viên Marketing",0987****519,3,2,4,1,3,3,4,2,3,2,67.5,"D (Kém / Cần cải thiện)"
-P03,"Trần Thanh Thảo","Sinh viên Tài chính",0932****876,2,4,2,3,2,4,2,4,2,3,30,"F (Dưới trung bình)"
-P04,"Phạm Quốc Bảo","Kinh doanh BĐS",0975****621,4,2,4,1,4,2,4,2,4,1,80,"C (Đạt chuẩn trung bình)"
-P05,"Đặng Minh Tuấn","Kinh doanh tự do (Trung niên)",0908****439,2,4,2,4,2,4,2,4,2,4,25,"F (Dưới trung bình)"
-P06,"Võ Ngọc Bích Trâm","Nhân viên Kế toán",0963****105,3,3,3,2,3,3,3,3,3,2,55,"D (Kém / Cần cải thiện)"
-P07,"Nguyễn Văn Thành","Kỹ sư Cơ khí",0944****982,3,3,3,2,3,3,4,3,3,2,57.5,"D (Kém / Cần cải thiện)"
+Participant_ID,Name,Role,Masked_Phone,Completion,Duration,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,SUS_Score,Grade
+P01,"Võ Hữu Thắng","21 tuổi - Sinh viên IT",036****068,"Có, nhưng gặp nhiều trục trặc / phải tự mò","2 - 4 phút",3,5,5,3,2,1,5,4,3,2,57.5,"D (Cần cải thiện)"
+P02,"Nguyễn Ngọc Duy Phong","22 tuổi - Sinh viên công nghệ",098****278,"Có, hoàn thành dễ dàng","2 - 4 phút",3,4,3,2,4,1,4,2,4,2,67.5,"D (Cần cải thiện)"
+P03,"Phạm Quang Tuấn","21 tuổi - Sinh viên IT",085****225,"Có, hoàn thành dễ dàng","2 - 4 phút",4,4,5,5,4,4,5,5,5,5,50,"F (Kém)"
+P04,"Nguyễn Trường Vỹ","20 tuổi - Hệ thống thông tin quản lý",096****414,"Có, nhưng gặp nhiều trục trặc / phải tự mò","2 - 4 phút",3,3,3,2,3,2,3,3,3,3,55,"D (Cần cải thiện)"
+P05,"Lê Thị Kim Ngân","21 tuổi - Sinh viên Kinh tế (Non-IT)",037****231,"Có, nhưng gặp nhiều trục trặc / phải tự mò","Trên 6 phút",2,2,4,3,4,3,4,2,4,3,62.5,"D (Cần cải thiện)"
+P06,"Trần Quốc Đạt","19 tuổi - Sinh viên (Em trai - Non-IT)",035****476,"Có, nhưng gặp nhiều trục trặc / phải tự mò","2 - 4 phút",3,4,3,2,3,3,4,3,3,2,55,"D (Cần cải thiện)"
+P07,"Phạm Văn Mạnh (Phiên đánh giá chính thức)","21 tuổi - Sinh viên",037****023,"Có, hoàn thành dễ dàng","Dưới 2 phút",3,2,4,2,3,2,4,2,4,2,70,"C (Đạt chuẩn)"

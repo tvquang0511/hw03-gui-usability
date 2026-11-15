@@ -57,16 +57,16 @@ Hệ thống phát hiện **10 Bugs chính** được tài liệu hóa chi tiế
 - **Bộ 4 câu hỏi phỏng vấn mở sau phiên:** Bao quát 4 khía cạnh: *Clarity (Rõ ràng)*, *Error Recovery (Khắc phục lỗi)*, *Speed (Tốc độ)*, *Trust (Độ tin cậy)*.
 
 ### 3.2. Thực thi với 7 người tham gia thật + 1 phiên Pilot
-- **Phiên Pilot:** Thực hiện với sinh viên Kinh tế (Trần Đình Khoa) để tinh chỉnh kịch bản về phần gợi ý mã coupon.
-- **7 người tham gia chính thức (`P01` đến `P07`):** Đều là người thật bên ngoài lớp học, thuộc nhiều ngành nghề khác nhau (Ngôn ngữ Anh, Marketing, Tài chính, BĐS, Kế toán, Cơ khí, Kinh doanh tự do). Danh sách có số điện thoại/Zalo được che 4 chữ số ở giữa theo đúng quy định chống gian lận tại [evidence/task2_usability/02_Participants_List.md](file:///d:/university/n4hk1/test/hw03/evidence/task2_usability/02_Participants_List.md).
+- **Phiên Pilot:** Thực hiện với Phạm Văn Mạnh để kiểm tra tính ổn định của link web deploy trên Vercel/Render và Google Form ([https://forms.gle/wweJ9JR3AUeu3CV77](https://forms.gle/wweJ9JR3AUeu3CV77)).
+- **7 người tham gia chính thức (`P01` đến `P07`):** Đều là người thật bên ngoài lớp học HW03 (Võ Hữu Thắng, Nguyễn Ngọc Duy Phong, Phạm Quang Tuấn, Nguyễn Trường Vỹ, Lê Thị Kim Ngân, Trần Quốc Đạt, Phạm Văn Mạnh). Danh sách có số điện thoại/Zalo được che 4 chữ số ở giữa theo đúng quy định chống gian lận tại [evidence/task2_usability/02_Participants_List.md](file:///d:/university/n4hk1/test/hw03/evidence/task2_usability/02_Participants_List.md).
 
 ### 3.3. Phân tích kết quả định lượng & định tính
-- **Kết quả điểm số SUS:**
-  - Điểm trung bình (Mean SUS): **52.5 / 100 điểm** $\rightarrow$ Xếp loại **Grade D (Dưới mức trung bình chấp nhận được 68 điểm)**.
-  - Người chấm cao nhất: 72.5 điểm (`P04` - thao tác nhanh).
-  - Người chấm thấp nhất: 35.0 điểm (`P05` - người dùng lớn tuổi gặp nhiều trở ngại).
+- **Kết quả điểm số SUS thực tế:**
+  - Điểm trung bình (Mean SUS): **59.6 / 100 điểm** $\rightarrow$ Xếp loại **Grade D (Cần cải thiện - dưới mức chuẩn 68 điểm)**.
+  - Người chấm cao nhất: 72.5 điểm (`P02` - thao tác nhanh).
+  - Người chấm thấp nhất: 50.0 điểm (`P06` - gặp trục trặc khi thêm giỏ hàng và thanh toán).
 - **Tổng hợp định tính:**
-  - *Điểm nghẽn lớn nhất (Major Friction):* 7/7 người dùng đều lúng túng khi bấm nút thêm giỏ hàng lần đầu không thấy phản hồi, và đều cảm thấy bất an vì trang thanh toán không hỏi địa chỉ nhận hàng.
+  - *Điểm nghẽn lớn nhất (Major Friction):* Hơn một nửa người tham gia (`P01`, `P04`, `P05`, `P06`) phản hồi là *"gặp nhiều trục trặc / phải tự mò"* khi thực hiện luồng mua hàng. Các lỗi tập trung vào nút Thêm vào giỏ hàng phải bấm 2 lần, xóa sản phẩm không hỏi xác nhận, và trang thanh toán cho tự sửa số tiền gây cảm giác *"hên xui"* (`P01`) và thiếu tin cậy (`P06`).
   - *Tách bạch lỗi:* Phân biệt rõ giữa **Isolated Bug** (lỗi logic click 2 lần ở nút thêm giỏ) và **Systemic Design Issue** (luồng thanh toán thiếu toàn diện, thiếu cơ chế xác nhận xóa và quản lý trạng thái giỏ hàng).
 
 ---
