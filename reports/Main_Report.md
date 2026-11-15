@@ -89,7 +89,7 @@ Thực hiện kiểm thử giao diện web trên **3 trình duyệt máy tính t
 1. `gui-checklist-auditor`: Tự động hóa thiết kế và phản biện checklist 4 khía cạnh.
 2. `usability-eval-analyzer`: Tự động thiết kế kịch bản và tính điểm SUS theo công thức chuẩn.
 3. `ai-audit-extractor`: Tự động trích xuất nhật ký tương tác AI phục vụ báo cáo kiểm toán.
-- **Link Video Demo YouTube:** *(Sinh viên cập nhật link video unlisted sau khi quay màn hình)*.
+- **Link Video Demo YouTube:** https://youtu.be/VZzl_j5WnUc
 
 ---
 

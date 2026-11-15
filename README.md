@@ -40,4 +40,4 @@
 - **Số lượng Passed / Failed:** Đang cập nhật
 - **Tổng số Bugs phát hiện và log trên GitHub Issues:** Đang cập nhật
 - **Số lượng người tham gia Usability Test:** 7 người thật + 1 người Pilot
-- **Link Video Demo Agent Skills:** Đang cập nhật
+- **Link Video Demo Agent Skills:** https://youtu.be/VZzl_j5WnUc

@@ -22,8 +22,8 @@
 - [x] **Task 1.1:** Tạo Skill 1: `gui-checklist-auditor` (Tự động thiết kế & rà soát checklist theo IA-01 -> IA-04).
 - [x] **Task 1.2:** Tạo Skill 2: `usability-eval-analyzer` (Soạn kịch bản, bảng SUS & tính điểm tự động).
 - [x] **Task 1.3:** Tạo Skill 3: `ai-audit-extractor` (Tự động trích xuất nhật ký AI Audit Report).
-- [ ] **Task 1.4:** Quay video màn hình (2–3 phút) demo hoạt động của Agent Skills.
-- [ ] **Task 1.5:** Tải video lên YouTube và dán link vào `README.md` & `Main_Report.md`.
+- [x] **Task 1.4:** Quay video màn hình (2–3 phút) demo hoạt động của Agent Skills.
+- [x] **Task 1.5:** Tải video lên YouTube và dán link vào `README.md` & `Main_Report.md`: https://youtu.be/VZzl_j5WnUc
 
 ---
 
